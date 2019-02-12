@@ -15,7 +15,7 @@
 # hasil program dan eksekusi <h2>
 * **Program setelah dibuat dari algoritma di atas**
 
-![GitHub Logo](7.png)
+![GitHub Logo](4.png)
 
 * **_penjelasan program_**
 
